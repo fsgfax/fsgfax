@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on popular structure of apps
 - 📫 How to reach me by email
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Lost myself in town...
 
 <!---
 fsgfax/fsgfax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
